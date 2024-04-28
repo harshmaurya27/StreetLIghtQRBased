@@ -3,6 +3,7 @@
   margin: 0;
   box-sizing: border-box;
   font-family: "Quicksand", sans-serif;
+  text-decoration: none;
 }
 
 body {
@@ -255,6 +256,7 @@ textarea {
   display: flex;
   flex-direction: column;
   max-width: 1280px;
+  margin-top: 4rem;
 }
 
 .footer {
@@ -264,6 +266,7 @@ textarea {
   display: flex;
   justify-content: space-between;
   padding-right: 2rem;
+  margin-top: 4rem;
 }
 
 .footer-top {
